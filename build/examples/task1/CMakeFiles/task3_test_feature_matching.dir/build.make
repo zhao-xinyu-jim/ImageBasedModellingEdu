@@ -57,28 +57,28 @@ include examples/task1/CMakeFiles/task3_test_feature_matching.dir/progress.make
 # Include the compile flags for this target's objects.
 include examples/task1/CMakeFiles/task3_test_feature_matching.dir/flags.make
 
-examples/task1/CMakeFiles/task3_test_feature_matching.dir/task3_test_matching.cc.o: examples/task1/CMakeFiles/task3_test_feature_matching.dir/flags.make
-examples/task1/CMakeFiles/task3_test_feature_matching.dir/task3_test_matching.cc.o: ../examples/task1/task3_test_matching.cc
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object examples/task1/CMakeFiles/task3_test_feature_matching.dir/task3_test_matching.cc.o"
-	cd /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/examples/task1 && /usr/bin/g++-7  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/task3_test_feature_matching.dir/task3_test_matching.cc.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/examples/task1/task3_test_matching.cc
+examples/task1/CMakeFiles/task3_test_feature_matching.dir/task1-6_test_matching.cc.o: examples/task1/CMakeFiles/task3_test_feature_matching.dir/flags.make
+examples/task1/CMakeFiles/task3_test_feature_matching.dir/task1-6_test_matching.cc.o: ../examples/task1/task1-6_test_matching.cc
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object examples/task1/CMakeFiles/task3_test_feature_matching.dir/task1-6_test_matching.cc.o"
+	cd /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/examples/task1 && /usr/bin/g++-7  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/task3_test_feature_matching.dir/task1-6_test_matching.cc.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/examples/task1/task1-6_test_matching.cc
 
-examples/task1/CMakeFiles/task3_test_feature_matching.dir/task3_test_matching.cc.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/task3_test_feature_matching.dir/task3_test_matching.cc.i"
-	cd /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/examples/task1 && /usr/bin/g++-7 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/examples/task1/task3_test_matching.cc > CMakeFiles/task3_test_feature_matching.dir/task3_test_matching.cc.i
+examples/task1/CMakeFiles/task3_test_feature_matching.dir/task1-6_test_matching.cc.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/task3_test_feature_matching.dir/task1-6_test_matching.cc.i"
+	cd /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/examples/task1 && /usr/bin/g++-7 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/examples/task1/task1-6_test_matching.cc > CMakeFiles/task3_test_feature_matching.dir/task1-6_test_matching.cc.i
 
-examples/task1/CMakeFiles/task3_test_feature_matching.dir/task3_test_matching.cc.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/task3_test_feature_matching.dir/task3_test_matching.cc.s"
-	cd /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/examples/task1 && /usr/bin/g++-7 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/examples/task1/task3_test_matching.cc -o CMakeFiles/task3_test_feature_matching.dir/task3_test_matching.cc.s
+examples/task1/CMakeFiles/task3_test_feature_matching.dir/task1-6_test_matching.cc.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/task3_test_feature_matching.dir/task1-6_test_matching.cc.s"
+	cd /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/examples/task1 && /usr/bin/g++-7 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/examples/task1/task1-6_test_matching.cc -o CMakeFiles/task3_test_feature_matching.dir/task1-6_test_matching.cc.s
 
-examples/task1/CMakeFiles/task3_test_feature_matching.dir/task3_test_matching.cc.o.requires:
+examples/task1/CMakeFiles/task3_test_feature_matching.dir/task1-6_test_matching.cc.o.requires:
 
-.PHONY : examples/task1/CMakeFiles/task3_test_feature_matching.dir/task3_test_matching.cc.o.requires
+.PHONY : examples/task1/CMakeFiles/task3_test_feature_matching.dir/task1-6_test_matching.cc.o.requires
 
-examples/task1/CMakeFiles/task3_test_feature_matching.dir/task3_test_matching.cc.o.provides: examples/task1/CMakeFiles/task3_test_feature_matching.dir/task3_test_matching.cc.o.requires
-	$(MAKE) -f examples/task1/CMakeFiles/task3_test_feature_matching.dir/build.make examples/task1/CMakeFiles/task3_test_feature_matching.dir/task3_test_matching.cc.o.provides.build
-.PHONY : examples/task1/CMakeFiles/task3_test_feature_matching.dir/task3_test_matching.cc.o.provides
+examples/task1/CMakeFiles/task3_test_feature_matching.dir/task1-6_test_matching.cc.o.provides: examples/task1/CMakeFiles/task3_test_feature_matching.dir/task1-6_test_matching.cc.o.requires
+	$(MAKE) -f examples/task1/CMakeFiles/task3_test_feature_matching.dir/build.make examples/task1/CMakeFiles/task3_test_feature_matching.dir/task1-6_test_matching.cc.o.provides.build
+.PHONY : examples/task1/CMakeFiles/task3_test_feature_matching.dir/task1-6_test_matching.cc.o.provides
 
-examples/task1/CMakeFiles/task3_test_feature_matching.dir/task3_test_matching.cc.o.provides.build: examples/task1/CMakeFiles/task3_test_feature_matching.dir/task3_test_matching.cc.o
+examples/task1/CMakeFiles/task3_test_feature_matching.dir/task1-6_test_matching.cc.o.provides.build: examples/task1/CMakeFiles/task3_test_feature_matching.dir/task1-6_test_matching.cc.o
 
 
 examples/task1/CMakeFiles/task3_test_feature_matching.dir/visualizer.cc.o: examples/task1/CMakeFiles/task3_test_feature_matching.dir/flags.make
@@ -107,13 +107,13 @@ examples/task1/CMakeFiles/task3_test_feature_matching.dir/visualizer.cc.o.provid
 
 # Object files for target task3_test_feature_matching
 task3_test_feature_matching_OBJECTS = \
-"CMakeFiles/task3_test_feature_matching.dir/task3_test_matching.cc.o" \
+"CMakeFiles/task3_test_feature_matching.dir/task1-6_test_matching.cc.o" \
 "CMakeFiles/task3_test_feature_matching.dir/visualizer.cc.o"
 
 # External object files for target task3_test_feature_matching
 task3_test_feature_matching_EXTERNAL_OBJECTS =
 
-examples/task1/task3_test_feature_matching: examples/task1/CMakeFiles/task3_test_feature_matching.dir/task3_test_matching.cc.o
+examples/task1/task3_test_feature_matching: examples/task1/CMakeFiles/task3_test_feature_matching.dir/task1-6_test_matching.cc.o
 examples/task1/task3_test_feature_matching: examples/task1/CMakeFiles/task3_test_feature_matching.dir/visualizer.cc.o
 examples/task1/task3_test_feature_matching: examples/task1/CMakeFiles/task3_test_feature_matching.dir/build.make
 examples/task1/task3_test_feature_matching: sfm/libsfm.a
@@ -135,7 +135,7 @@ examples/task1/CMakeFiles/task3_test_feature_matching.dir/build: examples/task1/
 
 .PHONY : examples/task1/CMakeFiles/task3_test_feature_matching.dir/build
 
-examples/task1/CMakeFiles/task3_test_feature_matching.dir/requires: examples/task1/CMakeFiles/task3_test_feature_matching.dir/task3_test_matching.cc.o.requires
+examples/task1/CMakeFiles/task3_test_feature_matching.dir/requires: examples/task1/CMakeFiles/task3_test_feature_matching.dir/task1-6_test_matching.cc.o.requires
 examples/task1/CMakeFiles/task3_test_feature_matching.dir/requires: examples/task1/CMakeFiles/task3_test_feature_matching.dir/visualizer.cc.o.requires
 
 .PHONY : examples/task1/CMakeFiles/task3_test_feature_matching.dir/requires

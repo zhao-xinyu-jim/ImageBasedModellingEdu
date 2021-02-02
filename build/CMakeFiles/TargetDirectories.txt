@@ -33,6 +33,9 @@
 /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/examples/task2/CMakeFiles/task2-2_test_p3p_ransac.dir
 /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/examples/task2/CMakeFiles/task2-3_test_lm_optimize.dir
 /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/examples/task2/CMakeFiles/task2-5_test_ba.dir
+/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/examples/task3/CMakeFiles/rebuild_cache.dir
+/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/examples/task3/CMakeFiles/task3-1_incremental_sfm.dir
+/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/examples/task3/CMakeFiles/edit_cache.dir
 /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/surface/CMakeFiles/rebuild_cache.dir
 /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/surface/CMakeFiles/surface.dir
 /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/surface/CMakeFiles/edit_cache.dir

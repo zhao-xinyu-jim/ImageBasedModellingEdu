@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/task2_test_camera_model.dir/task2_test_camera.cc.o"
+  "CMakeFiles/task2_test_camera_model.dir/task1-2_test_camera.cc.o"
   "task2_test_camera_model.pdb"
   "task2_test_camera_model"
 )

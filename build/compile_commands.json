@@ -286,18 +286,18 @@
 },
 {
   "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/examples/task1",
-  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -I/usr/include/eigen3 -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/examples/task1/../..  -fPIC -g   -std=gnu++11 -o CMakeFiles/task2_test_camera_model.dir/task2_test_camera.cc.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/examples/task1/task2_test_camera.cc",
-  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/examples/task1/task2_test_camera.cc"
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -I/usr/include/eigen3 -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/examples/task1/../..  -fPIC -g   -std=gnu++11 -o CMakeFiles/task2_test_camera_model.dir/task1-2_test_camera.cc.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/examples/task1/task1-2_test_camera.cc",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/examples/task1/task1-2_test_camera.cc"
 },
 {
   "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/examples/task1",
-  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -I/usr/include/eigen3 -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/examples/task1/../..  -fPIC -g   -std=gnu++11 -o CMakeFiles/task1_test_math_basic.dir/task1_test_math_basic.cc.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/examples/task1/task1_test_math_basic.cc",
-  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/examples/task1/task1_test_math_basic.cc"
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -I/usr/include/eigen3 -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/examples/task1/../..  -fPIC -g   -std=gnu++11 -o CMakeFiles/task1_test_math_basic.dir/task1-1_test_math_basic.cc.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/examples/task1/task1-1_test_math_basic.cc",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/examples/task1/task1-1_test_math_basic.cc"
 },
 {
   "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/examples/task1",
-  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -I/usr/include/eigen3 -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/examples/task1/../..  -fPIC -g   -std=gnu++11 -o CMakeFiles/task3_test_feature_matching.dir/task3_test_matching.cc.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/examples/task1/task3_test_matching.cc",
-  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/examples/task1/task3_test_matching.cc"
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -I/usr/include/eigen3 -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/examples/task1/../..  -fPIC -g   -std=gnu++11 -o CMakeFiles/task3_test_feature_matching.dir/task1-6_test_matching.cc.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/examples/task1/task1-6_test_matching.cc",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/examples/task1/task1-6_test_matching.cc"
 },
 {
   "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/examples/task1",
@@ -306,18 +306,18 @@
 },
 {
   "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/examples/task1",
-  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -I/usr/include/eigen3 -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/examples/task1/../..  -fPIC -g   -std=gnu++11 -o CMakeFiles/task6_test_pose_from_fundamental.dir/task6_test_pose_from_fundamental.cc.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/examples/task1/task6_test_pose_from_fundamental.cc",
-  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/examples/task1/task6_test_pose_from_fundamental.cc"
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -I/usr/include/eigen3 -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/examples/task1/../..  -fPIC -g   -std=gnu++11 -o CMakeFiles/task6_test_pose_from_fundamental.dir/task1-5_test_pose_from_fundamental.cc.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/examples/task1/task1-5_test_pose_from_fundamental.cc",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/examples/task1/task1-5_test_pose_from_fundamental.cc"
 },
 {
   "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/examples/task1",
-  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -I/usr/include/eigen3 -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/examples/task1/../..  -fPIC -g   -std=gnu++11 -o CMakeFiles/task4_test_fundamental_8_point.dir/task4_test_fundamental_8_point.cc.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/examples/task1/task4_test_fundamental_8_point.cc",
-  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/examples/task1/task4_test_fundamental_8_point.cc"
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -I/usr/include/eigen3 -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/examples/task1/../..  -fPIC -g   -std=gnu++11 -o CMakeFiles/task4_test_fundamental_8_point.dir/task1-3_test_fundamental_8_point.cc.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/examples/task1/task1-3_test_fundamental_8_point.cc",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/examples/task1/task1-3_test_fundamental_8_point.cc"
 },
 {
   "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/examples/task1",
-  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -I/usr/include/eigen3 -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/examples/task1/../..  -fPIC -g   -std=gnu++11 -o CMakeFiles/task5_test_fundamental_ransac.dir/task5_test_fundamental_ransac.cc.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/examples/task1/task5_test_fundamental_ransac.cc",
-  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/examples/task1/task5_test_fundamental_ransac.cc"
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -I/usr/include/eigen3 -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/examples/task1/../..  -fPIC -g   -std=gnu++11 -o CMakeFiles/task5_test_fundamental_ransac.dir/task1-4_test_fundamental_ransac.cc.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/examples/task1/task1-4_test_fundamental_ransac.cc",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/examples/task1/task1-4_test_fundamental_ransac.cc"
 },
 {
   "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/examples/task2",
@@ -348,6 +348,16 @@
   "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/examples/task2",
   "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -I/usr/include/eigen3 -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/examples/task2/../..  -fPIC -g   -std=gnu++11 -o CMakeFiles/task2-5_test_ba.dir/task2-5_test_bundle_adjustment.cc.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/examples/task2/task2-5_test_bundle_adjustment.cc",
   "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/examples/task2/task2-5_test_bundle_adjustment.cc"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/examples/task3",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -I/usr/include/eigen3 -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/examples/task3/../..  -fPIC -g   -std=gnu++11 -o CMakeFiles/task3-1_incremental_sfm.dir/task3-1_test_incremental_sfm.cc.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/examples/task3/task3-1_test_incremental_sfm.cc",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/examples/task3/task3-1_test_incremental_sfm.cc"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/examples/task3",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -I/usr/include/eigen3 -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/examples/task3/../..  -fPIC -g   -std=gnu++11 -o CMakeFiles/task3-1_incremental_sfm.dir/functions.cc.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/examples/task3/functions.cc",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/examples/task3/functions.cc"
 },
 {
   "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/surface",

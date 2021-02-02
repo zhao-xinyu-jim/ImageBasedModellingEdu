@@ -104,7 +104,7 @@ numeric
 ostream
 -
 
-/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/examples/task1/task6_test_pose_from_fundamental.cc
+/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/examples/task1/task1-5_test_pose_from_fundamental.cc
 math/matrix.h
 -
 math/matrix_svd.h

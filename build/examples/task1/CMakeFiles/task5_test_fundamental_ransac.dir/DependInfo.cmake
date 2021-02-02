@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/examples/task1/task5_test_fundamental_ransac.cc" "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/examples/task1/CMakeFiles/task5_test_fundamental_ransac.dir/task5_test_fundamental_ransac.cc.o"
+  "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/examples/task1/task1-4_test_fundamental_ransac.cc" "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/examples/task1/CMakeFiles/task5_test_fundamental_ransac.dir/task1-4_test_fundamental_ransac.cc.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

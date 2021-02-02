@@ -57,38 +57,38 @@ include examples/task1/CMakeFiles/task4_test_fundamental_8_point.dir/progress.ma
 # Include the compile flags for this target's objects.
 include examples/task1/CMakeFiles/task4_test_fundamental_8_point.dir/flags.make
 
-examples/task1/CMakeFiles/task4_test_fundamental_8_point.dir/task4_test_fundamental_8_point.cc.o: examples/task1/CMakeFiles/task4_test_fundamental_8_point.dir/flags.make
-examples/task1/CMakeFiles/task4_test_fundamental_8_point.dir/task4_test_fundamental_8_point.cc.o: ../examples/task1/task4_test_fundamental_8_point.cc
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object examples/task1/CMakeFiles/task4_test_fundamental_8_point.dir/task4_test_fundamental_8_point.cc.o"
-	cd /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/examples/task1 && /usr/bin/g++-7  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/task4_test_fundamental_8_point.dir/task4_test_fundamental_8_point.cc.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/examples/task1/task4_test_fundamental_8_point.cc
+examples/task1/CMakeFiles/task4_test_fundamental_8_point.dir/task1-3_test_fundamental_8_point.cc.o: examples/task1/CMakeFiles/task4_test_fundamental_8_point.dir/flags.make
+examples/task1/CMakeFiles/task4_test_fundamental_8_point.dir/task1-3_test_fundamental_8_point.cc.o: ../examples/task1/task1-3_test_fundamental_8_point.cc
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object examples/task1/CMakeFiles/task4_test_fundamental_8_point.dir/task1-3_test_fundamental_8_point.cc.o"
+	cd /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/examples/task1 && /usr/bin/g++-7  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/task4_test_fundamental_8_point.dir/task1-3_test_fundamental_8_point.cc.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/examples/task1/task1-3_test_fundamental_8_point.cc
 
-examples/task1/CMakeFiles/task4_test_fundamental_8_point.dir/task4_test_fundamental_8_point.cc.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/task4_test_fundamental_8_point.dir/task4_test_fundamental_8_point.cc.i"
-	cd /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/examples/task1 && /usr/bin/g++-7 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/examples/task1/task4_test_fundamental_8_point.cc > CMakeFiles/task4_test_fundamental_8_point.dir/task4_test_fundamental_8_point.cc.i
+examples/task1/CMakeFiles/task4_test_fundamental_8_point.dir/task1-3_test_fundamental_8_point.cc.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/task4_test_fundamental_8_point.dir/task1-3_test_fundamental_8_point.cc.i"
+	cd /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/examples/task1 && /usr/bin/g++-7 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/examples/task1/task1-3_test_fundamental_8_point.cc > CMakeFiles/task4_test_fundamental_8_point.dir/task1-3_test_fundamental_8_point.cc.i
 
-examples/task1/CMakeFiles/task4_test_fundamental_8_point.dir/task4_test_fundamental_8_point.cc.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/task4_test_fundamental_8_point.dir/task4_test_fundamental_8_point.cc.s"
-	cd /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/examples/task1 && /usr/bin/g++-7 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/examples/task1/task4_test_fundamental_8_point.cc -o CMakeFiles/task4_test_fundamental_8_point.dir/task4_test_fundamental_8_point.cc.s
+examples/task1/CMakeFiles/task4_test_fundamental_8_point.dir/task1-3_test_fundamental_8_point.cc.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/task4_test_fundamental_8_point.dir/task1-3_test_fundamental_8_point.cc.s"
+	cd /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/examples/task1 && /usr/bin/g++-7 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/examples/task1/task1-3_test_fundamental_8_point.cc -o CMakeFiles/task4_test_fundamental_8_point.dir/task1-3_test_fundamental_8_point.cc.s
 
-examples/task1/CMakeFiles/task4_test_fundamental_8_point.dir/task4_test_fundamental_8_point.cc.o.requires:
+examples/task1/CMakeFiles/task4_test_fundamental_8_point.dir/task1-3_test_fundamental_8_point.cc.o.requires:
 
-.PHONY : examples/task1/CMakeFiles/task4_test_fundamental_8_point.dir/task4_test_fundamental_8_point.cc.o.requires
+.PHONY : examples/task1/CMakeFiles/task4_test_fundamental_8_point.dir/task1-3_test_fundamental_8_point.cc.o.requires
 
-examples/task1/CMakeFiles/task4_test_fundamental_8_point.dir/task4_test_fundamental_8_point.cc.o.provides: examples/task1/CMakeFiles/task4_test_fundamental_8_point.dir/task4_test_fundamental_8_point.cc.o.requires
-	$(MAKE) -f examples/task1/CMakeFiles/task4_test_fundamental_8_point.dir/build.make examples/task1/CMakeFiles/task4_test_fundamental_8_point.dir/task4_test_fundamental_8_point.cc.o.provides.build
-.PHONY : examples/task1/CMakeFiles/task4_test_fundamental_8_point.dir/task4_test_fundamental_8_point.cc.o.provides
+examples/task1/CMakeFiles/task4_test_fundamental_8_point.dir/task1-3_test_fundamental_8_point.cc.o.provides: examples/task1/CMakeFiles/task4_test_fundamental_8_point.dir/task1-3_test_fundamental_8_point.cc.o.requires
+	$(MAKE) -f examples/task1/CMakeFiles/task4_test_fundamental_8_point.dir/build.make examples/task1/CMakeFiles/task4_test_fundamental_8_point.dir/task1-3_test_fundamental_8_point.cc.o.provides.build
+.PHONY : examples/task1/CMakeFiles/task4_test_fundamental_8_point.dir/task1-3_test_fundamental_8_point.cc.o.provides
 
-examples/task1/CMakeFiles/task4_test_fundamental_8_point.dir/task4_test_fundamental_8_point.cc.o.provides.build: examples/task1/CMakeFiles/task4_test_fundamental_8_point.dir/task4_test_fundamental_8_point.cc.o
+examples/task1/CMakeFiles/task4_test_fundamental_8_point.dir/task1-3_test_fundamental_8_point.cc.o.provides.build: examples/task1/CMakeFiles/task4_test_fundamental_8_point.dir/task1-3_test_fundamental_8_point.cc.o
 
 
 # Object files for target task4_test_fundamental_8_point
 task4_test_fundamental_8_point_OBJECTS = \
-"CMakeFiles/task4_test_fundamental_8_point.dir/task4_test_fundamental_8_point.cc.o"
+"CMakeFiles/task4_test_fundamental_8_point.dir/task1-3_test_fundamental_8_point.cc.o"
 
 # External object files for target task4_test_fundamental_8_point
 task4_test_fundamental_8_point_EXTERNAL_OBJECTS =
 
-examples/task1/task4_test_fundamental_8_point: examples/task1/CMakeFiles/task4_test_fundamental_8_point.dir/task4_test_fundamental_8_point.cc.o
+examples/task1/task4_test_fundamental_8_point: examples/task1/CMakeFiles/task4_test_fundamental_8_point.dir/task1-3_test_fundamental_8_point.cc.o
 examples/task1/task4_test_fundamental_8_point: examples/task1/CMakeFiles/task4_test_fundamental_8_point.dir/build.make
 examples/task1/task4_test_fundamental_8_point: sfm/libsfm.a
 examples/task1/task4_test_fundamental_8_point: util/libutil.a
@@ -109,7 +109,7 @@ examples/task1/CMakeFiles/task4_test_fundamental_8_point.dir/build: examples/tas
 
 .PHONY : examples/task1/CMakeFiles/task4_test_fundamental_8_point.dir/build
 
-examples/task1/CMakeFiles/task4_test_fundamental_8_point.dir/requires: examples/task1/CMakeFiles/task4_test_fundamental_8_point.dir/task4_test_fundamental_8_point.cc.o.requires
+examples/task1/CMakeFiles/task4_test_fundamental_8_point.dir/requires: examples/task1/CMakeFiles/task4_test_fundamental_8_point.dir/task1-3_test_fundamental_8_point.cc.o.requires
 
 .PHONY : examples/task1/CMakeFiles/task4_test_fundamental_8_point.dir/requires
 

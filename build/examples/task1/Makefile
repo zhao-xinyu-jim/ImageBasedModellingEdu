@@ -200,167 +200,167 @@ task5_test_fundamental_ransac/fast:
 	cd /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build && $(MAKE) -f examples/task1/CMakeFiles/task5_test_fundamental_ransac.dir/build.make examples/task1/CMakeFiles/task5_test_fundamental_ransac.dir/build
 .PHONY : task5_test_fundamental_ransac/fast
 
-task1_test_math_basic.o: task1_test_math_basic.cc.o
+task1-1_test_math_basic.o: task1-1_test_math_basic.cc.o
 
-.PHONY : task1_test_math_basic.o
-
-# target to build an object file
-task1_test_math_basic.cc.o:
-	cd /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build && $(MAKE) -f examples/task1/CMakeFiles/task1_test_math_basic.dir/build.make examples/task1/CMakeFiles/task1_test_math_basic.dir/task1_test_math_basic.cc.o
-.PHONY : task1_test_math_basic.cc.o
-
-task1_test_math_basic.i: task1_test_math_basic.cc.i
-
-.PHONY : task1_test_math_basic.i
-
-# target to preprocess a source file
-task1_test_math_basic.cc.i:
-	cd /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build && $(MAKE) -f examples/task1/CMakeFiles/task1_test_math_basic.dir/build.make examples/task1/CMakeFiles/task1_test_math_basic.dir/task1_test_math_basic.cc.i
-.PHONY : task1_test_math_basic.cc.i
-
-task1_test_math_basic.s: task1_test_math_basic.cc.s
-
-.PHONY : task1_test_math_basic.s
-
-# target to generate assembly for a file
-task1_test_math_basic.cc.s:
-	cd /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build && $(MAKE) -f examples/task1/CMakeFiles/task1_test_math_basic.dir/build.make examples/task1/CMakeFiles/task1_test_math_basic.dir/task1_test_math_basic.cc.s
-.PHONY : task1_test_math_basic.cc.s
-
-task2_test_camera.o: task2_test_camera.cc.o
-
-.PHONY : task2_test_camera.o
+.PHONY : task1-1_test_math_basic.o
 
 # target to build an object file
-task2_test_camera.cc.o:
-	cd /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build && $(MAKE) -f examples/task1/CMakeFiles/task2_test_camera_model.dir/build.make examples/task1/CMakeFiles/task2_test_camera_model.dir/task2_test_camera.cc.o
-.PHONY : task2_test_camera.cc.o
+task1-1_test_math_basic.cc.o:
+	cd /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build && $(MAKE) -f examples/task1/CMakeFiles/task1_test_math_basic.dir/build.make examples/task1/CMakeFiles/task1_test_math_basic.dir/task1-1_test_math_basic.cc.o
+.PHONY : task1-1_test_math_basic.cc.o
 
-task2_test_camera.i: task2_test_camera.cc.i
+task1-1_test_math_basic.i: task1-1_test_math_basic.cc.i
 
-.PHONY : task2_test_camera.i
+.PHONY : task1-1_test_math_basic.i
 
 # target to preprocess a source file
-task2_test_camera.cc.i:
-	cd /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build && $(MAKE) -f examples/task1/CMakeFiles/task2_test_camera_model.dir/build.make examples/task1/CMakeFiles/task2_test_camera_model.dir/task2_test_camera.cc.i
-.PHONY : task2_test_camera.cc.i
+task1-1_test_math_basic.cc.i:
+	cd /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build && $(MAKE) -f examples/task1/CMakeFiles/task1_test_math_basic.dir/build.make examples/task1/CMakeFiles/task1_test_math_basic.dir/task1-1_test_math_basic.cc.i
+.PHONY : task1-1_test_math_basic.cc.i
 
-task2_test_camera.s: task2_test_camera.cc.s
+task1-1_test_math_basic.s: task1-1_test_math_basic.cc.s
 
-.PHONY : task2_test_camera.s
+.PHONY : task1-1_test_math_basic.s
 
 # target to generate assembly for a file
-task2_test_camera.cc.s:
-	cd /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build && $(MAKE) -f examples/task1/CMakeFiles/task2_test_camera_model.dir/build.make examples/task1/CMakeFiles/task2_test_camera_model.dir/task2_test_camera.cc.s
-.PHONY : task2_test_camera.cc.s
+task1-1_test_math_basic.cc.s:
+	cd /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build && $(MAKE) -f examples/task1/CMakeFiles/task1_test_math_basic.dir/build.make examples/task1/CMakeFiles/task1_test_math_basic.dir/task1-1_test_math_basic.cc.s
+.PHONY : task1-1_test_math_basic.cc.s
 
-task3_test_matching.o: task3_test_matching.cc.o
+task1-2_test_camera.o: task1-2_test_camera.cc.o
 
-.PHONY : task3_test_matching.o
+.PHONY : task1-2_test_camera.o
 
 # target to build an object file
-task3_test_matching.cc.o:
-	cd /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build && $(MAKE) -f examples/task1/CMakeFiles/task3_test_feature_matching.dir/build.make examples/task1/CMakeFiles/task3_test_feature_matching.dir/task3_test_matching.cc.o
-.PHONY : task3_test_matching.cc.o
+task1-2_test_camera.cc.o:
+	cd /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build && $(MAKE) -f examples/task1/CMakeFiles/task2_test_camera_model.dir/build.make examples/task1/CMakeFiles/task2_test_camera_model.dir/task1-2_test_camera.cc.o
+.PHONY : task1-2_test_camera.cc.o
 
-task3_test_matching.i: task3_test_matching.cc.i
+task1-2_test_camera.i: task1-2_test_camera.cc.i
 
-.PHONY : task3_test_matching.i
+.PHONY : task1-2_test_camera.i
 
 # target to preprocess a source file
-task3_test_matching.cc.i:
-	cd /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build && $(MAKE) -f examples/task1/CMakeFiles/task3_test_feature_matching.dir/build.make examples/task1/CMakeFiles/task3_test_feature_matching.dir/task3_test_matching.cc.i
-.PHONY : task3_test_matching.cc.i
+task1-2_test_camera.cc.i:
+	cd /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build && $(MAKE) -f examples/task1/CMakeFiles/task2_test_camera_model.dir/build.make examples/task1/CMakeFiles/task2_test_camera_model.dir/task1-2_test_camera.cc.i
+.PHONY : task1-2_test_camera.cc.i
 
-task3_test_matching.s: task3_test_matching.cc.s
+task1-2_test_camera.s: task1-2_test_camera.cc.s
 
-.PHONY : task3_test_matching.s
+.PHONY : task1-2_test_camera.s
 
 # target to generate assembly for a file
-task3_test_matching.cc.s:
-	cd /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build && $(MAKE) -f examples/task1/CMakeFiles/task3_test_feature_matching.dir/build.make examples/task1/CMakeFiles/task3_test_feature_matching.dir/task3_test_matching.cc.s
-.PHONY : task3_test_matching.cc.s
+task1-2_test_camera.cc.s:
+	cd /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build && $(MAKE) -f examples/task1/CMakeFiles/task2_test_camera_model.dir/build.make examples/task1/CMakeFiles/task2_test_camera_model.dir/task1-2_test_camera.cc.s
+.PHONY : task1-2_test_camera.cc.s
 
-task4_test_fundamental_8_point.o: task4_test_fundamental_8_point.cc.o
+task1-3_test_fundamental_8_point.o: task1-3_test_fundamental_8_point.cc.o
 
-.PHONY : task4_test_fundamental_8_point.o
+.PHONY : task1-3_test_fundamental_8_point.o
 
 # target to build an object file
-task4_test_fundamental_8_point.cc.o:
-	cd /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build && $(MAKE) -f examples/task1/CMakeFiles/task4_test_fundamental_8_point.dir/build.make examples/task1/CMakeFiles/task4_test_fundamental_8_point.dir/task4_test_fundamental_8_point.cc.o
-.PHONY : task4_test_fundamental_8_point.cc.o
+task1-3_test_fundamental_8_point.cc.o:
+	cd /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build && $(MAKE) -f examples/task1/CMakeFiles/task4_test_fundamental_8_point.dir/build.make examples/task1/CMakeFiles/task4_test_fundamental_8_point.dir/task1-3_test_fundamental_8_point.cc.o
+.PHONY : task1-3_test_fundamental_8_point.cc.o
 
-task4_test_fundamental_8_point.i: task4_test_fundamental_8_point.cc.i
+task1-3_test_fundamental_8_point.i: task1-3_test_fundamental_8_point.cc.i
 
-.PHONY : task4_test_fundamental_8_point.i
+.PHONY : task1-3_test_fundamental_8_point.i
 
 # target to preprocess a source file
-task4_test_fundamental_8_point.cc.i:
-	cd /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build && $(MAKE) -f examples/task1/CMakeFiles/task4_test_fundamental_8_point.dir/build.make examples/task1/CMakeFiles/task4_test_fundamental_8_point.dir/task4_test_fundamental_8_point.cc.i
-.PHONY : task4_test_fundamental_8_point.cc.i
+task1-3_test_fundamental_8_point.cc.i:
+	cd /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build && $(MAKE) -f examples/task1/CMakeFiles/task4_test_fundamental_8_point.dir/build.make examples/task1/CMakeFiles/task4_test_fundamental_8_point.dir/task1-3_test_fundamental_8_point.cc.i
+.PHONY : task1-3_test_fundamental_8_point.cc.i
 
-task4_test_fundamental_8_point.s: task4_test_fundamental_8_point.cc.s
+task1-3_test_fundamental_8_point.s: task1-3_test_fundamental_8_point.cc.s
 
-.PHONY : task4_test_fundamental_8_point.s
+.PHONY : task1-3_test_fundamental_8_point.s
 
 # target to generate assembly for a file
-task4_test_fundamental_8_point.cc.s:
-	cd /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build && $(MAKE) -f examples/task1/CMakeFiles/task4_test_fundamental_8_point.dir/build.make examples/task1/CMakeFiles/task4_test_fundamental_8_point.dir/task4_test_fundamental_8_point.cc.s
-.PHONY : task4_test_fundamental_8_point.cc.s
+task1-3_test_fundamental_8_point.cc.s:
+	cd /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build && $(MAKE) -f examples/task1/CMakeFiles/task4_test_fundamental_8_point.dir/build.make examples/task1/CMakeFiles/task4_test_fundamental_8_point.dir/task1-3_test_fundamental_8_point.cc.s
+.PHONY : task1-3_test_fundamental_8_point.cc.s
 
-task5_test_fundamental_ransac.o: task5_test_fundamental_ransac.cc.o
+task1-4_test_fundamental_ransac.o: task1-4_test_fundamental_ransac.cc.o
 
-.PHONY : task5_test_fundamental_ransac.o
+.PHONY : task1-4_test_fundamental_ransac.o
 
 # target to build an object file
-task5_test_fundamental_ransac.cc.o:
-	cd /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build && $(MAKE) -f examples/task1/CMakeFiles/task5_test_fundamental_ransac.dir/build.make examples/task1/CMakeFiles/task5_test_fundamental_ransac.dir/task5_test_fundamental_ransac.cc.o
-.PHONY : task5_test_fundamental_ransac.cc.o
+task1-4_test_fundamental_ransac.cc.o:
+	cd /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build && $(MAKE) -f examples/task1/CMakeFiles/task5_test_fundamental_ransac.dir/build.make examples/task1/CMakeFiles/task5_test_fundamental_ransac.dir/task1-4_test_fundamental_ransac.cc.o
+.PHONY : task1-4_test_fundamental_ransac.cc.o
 
-task5_test_fundamental_ransac.i: task5_test_fundamental_ransac.cc.i
+task1-4_test_fundamental_ransac.i: task1-4_test_fundamental_ransac.cc.i
 
-.PHONY : task5_test_fundamental_ransac.i
+.PHONY : task1-4_test_fundamental_ransac.i
 
 # target to preprocess a source file
-task5_test_fundamental_ransac.cc.i:
-	cd /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build && $(MAKE) -f examples/task1/CMakeFiles/task5_test_fundamental_ransac.dir/build.make examples/task1/CMakeFiles/task5_test_fundamental_ransac.dir/task5_test_fundamental_ransac.cc.i
-.PHONY : task5_test_fundamental_ransac.cc.i
+task1-4_test_fundamental_ransac.cc.i:
+	cd /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build && $(MAKE) -f examples/task1/CMakeFiles/task5_test_fundamental_ransac.dir/build.make examples/task1/CMakeFiles/task5_test_fundamental_ransac.dir/task1-4_test_fundamental_ransac.cc.i
+.PHONY : task1-4_test_fundamental_ransac.cc.i
 
-task5_test_fundamental_ransac.s: task5_test_fundamental_ransac.cc.s
+task1-4_test_fundamental_ransac.s: task1-4_test_fundamental_ransac.cc.s
 
-.PHONY : task5_test_fundamental_ransac.s
+.PHONY : task1-4_test_fundamental_ransac.s
 
 # target to generate assembly for a file
-task5_test_fundamental_ransac.cc.s:
-	cd /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build && $(MAKE) -f examples/task1/CMakeFiles/task5_test_fundamental_ransac.dir/build.make examples/task1/CMakeFiles/task5_test_fundamental_ransac.dir/task5_test_fundamental_ransac.cc.s
-.PHONY : task5_test_fundamental_ransac.cc.s
+task1-4_test_fundamental_ransac.cc.s:
+	cd /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build && $(MAKE) -f examples/task1/CMakeFiles/task5_test_fundamental_ransac.dir/build.make examples/task1/CMakeFiles/task5_test_fundamental_ransac.dir/task1-4_test_fundamental_ransac.cc.s
+.PHONY : task1-4_test_fundamental_ransac.cc.s
 
-task6_test_pose_from_fundamental.o: task6_test_pose_from_fundamental.cc.o
+task1-5_test_pose_from_fundamental.o: task1-5_test_pose_from_fundamental.cc.o
 
-.PHONY : task6_test_pose_from_fundamental.o
+.PHONY : task1-5_test_pose_from_fundamental.o
 
 # target to build an object file
-task6_test_pose_from_fundamental.cc.o:
-	cd /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build && $(MAKE) -f examples/task1/CMakeFiles/task6_test_pose_from_fundamental.dir/build.make examples/task1/CMakeFiles/task6_test_pose_from_fundamental.dir/task6_test_pose_from_fundamental.cc.o
-.PHONY : task6_test_pose_from_fundamental.cc.o
+task1-5_test_pose_from_fundamental.cc.o:
+	cd /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build && $(MAKE) -f examples/task1/CMakeFiles/task6_test_pose_from_fundamental.dir/build.make examples/task1/CMakeFiles/task6_test_pose_from_fundamental.dir/task1-5_test_pose_from_fundamental.cc.o
+.PHONY : task1-5_test_pose_from_fundamental.cc.o
 
-task6_test_pose_from_fundamental.i: task6_test_pose_from_fundamental.cc.i
+task1-5_test_pose_from_fundamental.i: task1-5_test_pose_from_fundamental.cc.i
 
-.PHONY : task6_test_pose_from_fundamental.i
+.PHONY : task1-5_test_pose_from_fundamental.i
 
 # target to preprocess a source file
-task6_test_pose_from_fundamental.cc.i:
-	cd /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build && $(MAKE) -f examples/task1/CMakeFiles/task6_test_pose_from_fundamental.dir/build.make examples/task1/CMakeFiles/task6_test_pose_from_fundamental.dir/task6_test_pose_from_fundamental.cc.i
-.PHONY : task6_test_pose_from_fundamental.cc.i
+task1-5_test_pose_from_fundamental.cc.i:
+	cd /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build && $(MAKE) -f examples/task1/CMakeFiles/task6_test_pose_from_fundamental.dir/build.make examples/task1/CMakeFiles/task6_test_pose_from_fundamental.dir/task1-5_test_pose_from_fundamental.cc.i
+.PHONY : task1-5_test_pose_from_fundamental.cc.i
 
-task6_test_pose_from_fundamental.s: task6_test_pose_from_fundamental.cc.s
+task1-5_test_pose_from_fundamental.s: task1-5_test_pose_from_fundamental.cc.s
 
-.PHONY : task6_test_pose_from_fundamental.s
+.PHONY : task1-5_test_pose_from_fundamental.s
 
 # target to generate assembly for a file
-task6_test_pose_from_fundamental.cc.s:
-	cd /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build && $(MAKE) -f examples/task1/CMakeFiles/task6_test_pose_from_fundamental.dir/build.make examples/task1/CMakeFiles/task6_test_pose_from_fundamental.dir/task6_test_pose_from_fundamental.cc.s
-.PHONY : task6_test_pose_from_fundamental.cc.s
+task1-5_test_pose_from_fundamental.cc.s:
+	cd /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build && $(MAKE) -f examples/task1/CMakeFiles/task6_test_pose_from_fundamental.dir/build.make examples/task1/CMakeFiles/task6_test_pose_from_fundamental.dir/task1-5_test_pose_from_fundamental.cc.s
+.PHONY : task1-5_test_pose_from_fundamental.cc.s
+
+task1-6_test_matching.o: task1-6_test_matching.cc.o
+
+.PHONY : task1-6_test_matching.o
+
+# target to build an object file
+task1-6_test_matching.cc.o:
+	cd /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build && $(MAKE) -f examples/task1/CMakeFiles/task3_test_feature_matching.dir/build.make examples/task1/CMakeFiles/task3_test_feature_matching.dir/task1-6_test_matching.cc.o
+.PHONY : task1-6_test_matching.cc.o
+
+task1-6_test_matching.i: task1-6_test_matching.cc.i
+
+.PHONY : task1-6_test_matching.i
+
+# target to preprocess a source file
+task1-6_test_matching.cc.i:
+	cd /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build && $(MAKE) -f examples/task1/CMakeFiles/task3_test_feature_matching.dir/build.make examples/task1/CMakeFiles/task3_test_feature_matching.dir/task1-6_test_matching.cc.i
+.PHONY : task1-6_test_matching.cc.i
+
+task1-6_test_matching.s: task1-6_test_matching.cc.s
+
+.PHONY : task1-6_test_matching.s
+
+# target to generate assembly for a file
+task1-6_test_matching.cc.s:
+	cd /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build && $(MAKE) -f examples/task1/CMakeFiles/task3_test_feature_matching.dir/build.make examples/task1/CMakeFiles/task3_test_feature_matching.dir/task1-6_test_matching.cc.s
+.PHONY : task1-6_test_matching.cc.s
 
 visualizer.o: visualizer.cc.o
 
@@ -403,24 +403,24 @@ help:
 	@echo "... task6_test_pose_from_fundamental"
 	@echo "... task4_test_fundamental_8_point"
 	@echo "... task5_test_fundamental_ransac"
-	@echo "... task1_test_math_basic.o"
-	@echo "... task1_test_math_basic.i"
-	@echo "... task1_test_math_basic.s"
-	@echo "... task2_test_camera.o"
-	@echo "... task2_test_camera.i"
-	@echo "... task2_test_camera.s"
-	@echo "... task3_test_matching.o"
-	@echo "... task3_test_matching.i"
-	@echo "... task3_test_matching.s"
-	@echo "... task4_test_fundamental_8_point.o"
-	@echo "... task4_test_fundamental_8_point.i"
-	@echo "... task4_test_fundamental_8_point.s"
-	@echo "... task5_test_fundamental_ransac.o"
-	@echo "... task5_test_fundamental_ransac.i"
-	@echo "... task5_test_fundamental_ransac.s"
-	@echo "... task6_test_pose_from_fundamental.o"
-	@echo "... task6_test_pose_from_fundamental.i"
-	@echo "... task6_test_pose_from_fundamental.s"
+	@echo "... task1-1_test_math_basic.o"
+	@echo "... task1-1_test_math_basic.i"
+	@echo "... task1-1_test_math_basic.s"
+	@echo "... task1-2_test_camera.o"
+	@echo "... task1-2_test_camera.i"
+	@echo "... task1-2_test_camera.s"
+	@echo "... task1-3_test_fundamental_8_point.o"
+	@echo "... task1-3_test_fundamental_8_point.i"
+	@echo "... task1-3_test_fundamental_8_point.s"
+	@echo "... task1-4_test_fundamental_ransac.o"
+	@echo "... task1-4_test_fundamental_ransac.i"
+	@echo "... task1-4_test_fundamental_ransac.s"
+	@echo "... task1-5_test_pose_from_fundamental.o"
+	@echo "... task1-5_test_pose_from_fundamental.i"
+	@echo "... task1-5_test_pose_from_fundamental.s"
+	@echo "... task1-6_test_matching.o"
+	@echo "... task1-6_test_matching.i"
+	@echo "... task1-6_test_matching.s"
 	@echo "... visualizer.o"
 	@echo "... visualizer.i"
 	@echo "... visualizer.s"

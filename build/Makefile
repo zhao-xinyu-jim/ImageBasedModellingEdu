@@ -332,6 +332,19 @@ task2-5_test_ba/fast:
 .PHONY : task2-5_test_ba/fast
 
 #=============================================================================
+# Target rules for targets named task3-1_incremental_sfm
+
+# Build rule for target.
+task3-1_incremental_sfm: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 task3-1_incremental_sfm
+.PHONY : task3-1_incremental_sfm
+
+# fast build rule for target.
+task3-1_incremental_sfm/fast:
+	$(MAKE) -f examples/task3/CMakeFiles/task3-1_incremental_sfm.dir/build.make examples/task3/CMakeFiles/task3-1_incremental_sfm.dir/build
+.PHONY : task3-1_incremental_sfm/fast
+
+#=============================================================================
 # Target rules for targets named surface
 
 # Build rule for target.
@@ -421,6 +434,7 @@ help:
 	@echo "... task2-2_test_p3p_ransac"
 	@echo "... task2-3_test_lm_optimize"
 	@echo "... task2-5_test_ba"
+	@echo "... task3-1_incremental_sfm"
 	@echo "... surface"
 	@echo "... texturing"
 	@echo "... mrf"

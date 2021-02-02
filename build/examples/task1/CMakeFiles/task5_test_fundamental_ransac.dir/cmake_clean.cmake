@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/task5_test_fundamental_ransac.dir/task5_test_fundamental_ransac.cc.o"
+  "CMakeFiles/task5_test_fundamental_ransac.dir/task1-4_test_fundamental_ransac.cc.o"
   "task5_test_fundamental_ransac.pdb"
   "task5_test_fundamental_ransac"
 )

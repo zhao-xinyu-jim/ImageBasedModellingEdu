@@ -57,38 +57,38 @@ include examples/task1/CMakeFiles/task5_test_fundamental_ransac.dir/progress.mak
 # Include the compile flags for this target's objects.
 include examples/task1/CMakeFiles/task5_test_fundamental_ransac.dir/flags.make
 
-examples/task1/CMakeFiles/task5_test_fundamental_ransac.dir/task5_test_fundamental_ransac.cc.o: examples/task1/CMakeFiles/task5_test_fundamental_ransac.dir/flags.make
-examples/task1/CMakeFiles/task5_test_fundamental_ransac.dir/task5_test_fundamental_ransac.cc.o: ../examples/task1/task5_test_fundamental_ransac.cc
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object examples/task1/CMakeFiles/task5_test_fundamental_ransac.dir/task5_test_fundamental_ransac.cc.o"
-	cd /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/examples/task1 && /usr/bin/g++-7  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/task5_test_fundamental_ransac.dir/task5_test_fundamental_ransac.cc.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/examples/task1/task5_test_fundamental_ransac.cc
+examples/task1/CMakeFiles/task5_test_fundamental_ransac.dir/task1-4_test_fundamental_ransac.cc.o: examples/task1/CMakeFiles/task5_test_fundamental_ransac.dir/flags.make
+examples/task1/CMakeFiles/task5_test_fundamental_ransac.dir/task1-4_test_fundamental_ransac.cc.o: ../examples/task1/task1-4_test_fundamental_ransac.cc
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object examples/task1/CMakeFiles/task5_test_fundamental_ransac.dir/task1-4_test_fundamental_ransac.cc.o"
+	cd /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/examples/task1 && /usr/bin/g++-7  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/task5_test_fundamental_ransac.dir/task1-4_test_fundamental_ransac.cc.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/examples/task1/task1-4_test_fundamental_ransac.cc
 
-examples/task1/CMakeFiles/task5_test_fundamental_ransac.dir/task5_test_fundamental_ransac.cc.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/task5_test_fundamental_ransac.dir/task5_test_fundamental_ransac.cc.i"
-	cd /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/examples/task1 && /usr/bin/g++-7 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/examples/task1/task5_test_fundamental_ransac.cc > CMakeFiles/task5_test_fundamental_ransac.dir/task5_test_fundamental_ransac.cc.i
+examples/task1/CMakeFiles/task5_test_fundamental_ransac.dir/task1-4_test_fundamental_ransac.cc.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/task5_test_fundamental_ransac.dir/task1-4_test_fundamental_ransac.cc.i"
+	cd /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/examples/task1 && /usr/bin/g++-7 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/examples/task1/task1-4_test_fundamental_ransac.cc > CMakeFiles/task5_test_fundamental_ransac.dir/task1-4_test_fundamental_ransac.cc.i
 
-examples/task1/CMakeFiles/task5_test_fundamental_ransac.dir/task5_test_fundamental_ransac.cc.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/task5_test_fundamental_ransac.dir/task5_test_fundamental_ransac.cc.s"
-	cd /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/examples/task1 && /usr/bin/g++-7 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/examples/task1/task5_test_fundamental_ransac.cc -o CMakeFiles/task5_test_fundamental_ransac.dir/task5_test_fundamental_ransac.cc.s
+examples/task1/CMakeFiles/task5_test_fundamental_ransac.dir/task1-4_test_fundamental_ransac.cc.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/task5_test_fundamental_ransac.dir/task1-4_test_fundamental_ransac.cc.s"
+	cd /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/examples/task1 && /usr/bin/g++-7 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/examples/task1/task1-4_test_fundamental_ransac.cc -o CMakeFiles/task5_test_fundamental_ransac.dir/task1-4_test_fundamental_ransac.cc.s
 
-examples/task1/CMakeFiles/task5_test_fundamental_ransac.dir/task5_test_fundamental_ransac.cc.o.requires:
+examples/task1/CMakeFiles/task5_test_fundamental_ransac.dir/task1-4_test_fundamental_ransac.cc.o.requires:
 
-.PHONY : examples/task1/CMakeFiles/task5_test_fundamental_ransac.dir/task5_test_fundamental_ransac.cc.o.requires
+.PHONY : examples/task1/CMakeFiles/task5_test_fundamental_ransac.dir/task1-4_test_fundamental_ransac.cc.o.requires
 
-examples/task1/CMakeFiles/task5_test_fundamental_ransac.dir/task5_test_fundamental_ransac.cc.o.provides: examples/task1/CMakeFiles/task5_test_fundamental_ransac.dir/task5_test_fundamental_ransac.cc.o.requires
-	$(MAKE) -f examples/task1/CMakeFiles/task5_test_fundamental_ransac.dir/build.make examples/task1/CMakeFiles/task5_test_fundamental_ransac.dir/task5_test_fundamental_ransac.cc.o.provides.build
-.PHONY : examples/task1/CMakeFiles/task5_test_fundamental_ransac.dir/task5_test_fundamental_ransac.cc.o.provides
+examples/task1/CMakeFiles/task5_test_fundamental_ransac.dir/task1-4_test_fundamental_ransac.cc.o.provides: examples/task1/CMakeFiles/task5_test_fundamental_ransac.dir/task1-4_test_fundamental_ransac.cc.o.requires
+	$(MAKE) -f examples/task1/CMakeFiles/task5_test_fundamental_ransac.dir/build.make examples/task1/CMakeFiles/task5_test_fundamental_ransac.dir/task1-4_test_fundamental_ransac.cc.o.provides.build
+.PHONY : examples/task1/CMakeFiles/task5_test_fundamental_ransac.dir/task1-4_test_fundamental_ransac.cc.o.provides
 
-examples/task1/CMakeFiles/task5_test_fundamental_ransac.dir/task5_test_fundamental_ransac.cc.o.provides.build: examples/task1/CMakeFiles/task5_test_fundamental_ransac.dir/task5_test_fundamental_ransac.cc.o
+examples/task1/CMakeFiles/task5_test_fundamental_ransac.dir/task1-4_test_fundamental_ransac.cc.o.provides.build: examples/task1/CMakeFiles/task5_test_fundamental_ransac.dir/task1-4_test_fundamental_ransac.cc.o
 
 
 # Object files for target task5_test_fundamental_ransac
 task5_test_fundamental_ransac_OBJECTS = \
-"CMakeFiles/task5_test_fundamental_ransac.dir/task5_test_fundamental_ransac.cc.o"
+"CMakeFiles/task5_test_fundamental_ransac.dir/task1-4_test_fundamental_ransac.cc.o"
 
 # External object files for target task5_test_fundamental_ransac
 task5_test_fundamental_ransac_EXTERNAL_OBJECTS =
 
-examples/task1/task5_test_fundamental_ransac: examples/task1/CMakeFiles/task5_test_fundamental_ransac.dir/task5_test_fundamental_ransac.cc.o
+examples/task1/task5_test_fundamental_ransac: examples/task1/CMakeFiles/task5_test_fundamental_ransac.dir/task1-4_test_fundamental_ransac.cc.o
 examples/task1/task5_test_fundamental_ransac: examples/task1/CMakeFiles/task5_test_fundamental_ransac.dir/build.make
 examples/task1/task5_test_fundamental_ransac: sfm/libsfm.a
 examples/task1/task5_test_fundamental_ransac: util/libutil.a
@@ -109,7 +109,7 @@ examples/task1/CMakeFiles/task5_test_fundamental_ransac.dir/build: examples/task
 
 .PHONY : examples/task1/CMakeFiles/task5_test_fundamental_ransac.dir/build
 
-examples/task1/CMakeFiles/task5_test_fundamental_ransac.dir/requires: examples/task1/CMakeFiles/task5_test_fundamental_ransac.dir/task5_test_fundamental_ransac.cc.o.requires
+examples/task1/CMakeFiles/task5_test_fundamental_ransac.dir/requires: examples/task1/CMakeFiles/task5_test_fundamental_ransac.dir/task1-4_test_fundamental_ransac.cc.o.requires
 
 .PHONY : examples/task1/CMakeFiles/task5_test_fundamental_ransac.dir/requires
 

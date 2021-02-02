@@ -246,6 +246,12 @@ class3_BINARY_DIR:STATIC=/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageB
 //Value Computed by CMake
 class3_SOURCE_DIR:STATIC=/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/examples/task2
 
+//Value Computed by CMake
+class4_BINARY_DIR:STATIC=/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/examples/task3
+
+//Value Computed by CMake
+class4_SOURCE_DIR:STATIC=/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/examples/task3
+
 //Dependencies for target
 coldet_LIB_DEPENDS:STATIC=
 
@@ -419,7 +425,7 @@ CMAKE_MODULE_LINKER_FLAGS_RELWITHDEBINFO-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_NM
 CMAKE_NM-ADVANCED:INTERNAL=1
 //number of local generators
-CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=14
+CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=15
 //ADVANCED property for variable: CMAKE_OBJCOPY
 CMAKE_OBJCOPY-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_OBJDUMP
