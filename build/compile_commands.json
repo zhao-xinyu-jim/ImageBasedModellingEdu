@@ -1,0 +1,597 @@
+[
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/core",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -I/usr/include/eigen3 -I/usr/include/x86_64-linux-gnu -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/core/..  -fPIC -g   -std=gnu++11 -o CMakeFiles/core.dir/bundle.cc.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/core/bundle.cc",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/core/bundle.cc"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/core",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -I/usr/include/eigen3 -I/usr/include/x86_64-linux-gnu -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/core/..  -fPIC -g   -std=gnu++11 -o CMakeFiles/core.dir/bundle_io.cc.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/core/bundle_io.cc",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/core/bundle_io.cc"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/core",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -I/usr/include/eigen3 -I/usr/include/x86_64-linux-gnu -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/core/..  -fPIC -g   -std=gnu++11 -o CMakeFiles/core.dir/camera.cc.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/core/camera.cc",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/core/camera.cc"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/core",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -I/usr/include/eigen3 -I/usr/include/x86_64-linux-gnu -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/core/..  -fPIC -g   -std=gnu++11 -o CMakeFiles/core.dir/depthmap.cc.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/core/depthmap.cc",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/core/depthmap.cc"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/core",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -I/usr/include/eigen3 -I/usr/include/x86_64-linux-gnu -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/core/..  -fPIC -g   -std=gnu++11 -o CMakeFiles/core.dir/image_exif.cc.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/core/image_exif.cc",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/core/image_exif.cc"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/core",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -I/usr/include/eigen3 -I/usr/include/x86_64-linux-gnu -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/core/..  -fPIC -g   -std=gnu++11 -o CMakeFiles/core.dir/image_io.cc.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/core/image_io.cc",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/core/image_io.cc"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/core",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -I/usr/include/eigen3 -I/usr/include/x86_64-linux-gnu -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/core/..  -fPIC -g   -std=gnu++11 -o CMakeFiles/core.dir/image_tools.cc.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/core/image_tools.cc",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/core/image_tools.cc"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/core",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -I/usr/include/eigen3 -I/usr/include/x86_64-linux-gnu -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/core/..  -fPIC -g   -std=gnu++11 -o CMakeFiles/core.dir/scene.cc.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/core/scene.cc",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/core/scene.cc"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/core",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -I/usr/include/eigen3 -I/usr/include/x86_64-linux-gnu -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/core/..  -fPIC -g   -std=gnu++11 -o CMakeFiles/core.dir/view.cc.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/core/view.cc",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/core/view.cc"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/core",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -I/usr/include/eigen3 -I/usr/include/x86_64-linux-gnu -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/core/..  -fPIC -g   -std=gnu++11 -o CMakeFiles/core.dir/mesh.cc.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/core/mesh.cc",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/core/mesh.cc"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/core",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -I/usr/include/eigen3 -I/usr/include/x86_64-linux-gnu -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/core/..  -fPIC -g   -std=gnu++11 -o CMakeFiles/core.dir/mesh_info.cc.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/core/mesh_info.cc",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/core/mesh_info.cc"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/core",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -I/usr/include/eigen3 -I/usr/include/x86_64-linux-gnu -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/core/..  -fPIC -g   -std=gnu++11 -o CMakeFiles/core.dir/mesh_tools.cc.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/core/mesh_tools.cc",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/core/mesh_tools.cc"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/core",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -I/usr/include/eigen3 -I/usr/include/x86_64-linux-gnu -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/core/..  -fPIC -g   -std=gnu++11 -o CMakeFiles/core.dir/mesh_io.cc.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/core/mesh_io.cc",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/core/mesh_io.cc"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/core",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -I/usr/include/eigen3 -I/usr/include/x86_64-linux-gnu -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/core/..  -fPIC -g   -std=gnu++11 -o CMakeFiles/core.dir/mesh_io_ply.cc.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/core/mesh_io_ply.cc",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/core/mesh_io_ply.cc"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/core",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -I/usr/include/eigen3 -I/usr/include/x86_64-linux-gnu -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/core/..  -fPIC -g   -std=gnu++11 -o CMakeFiles/core.dir/mesh_io_obj.cc.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/core/mesh_io_obj.cc",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/core/mesh_io_obj.cc"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/core",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -I/usr/include/eigen3 -I/usr/include/x86_64-linux-gnu -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/core/..  -fPIC -g   -std=gnu++11 -o CMakeFiles/core.dir/mesh_io_off.cc.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/core/mesh_io_off.cc",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/core/mesh_io_off.cc"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/core",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -I/usr/include/eigen3 -I/usr/include/x86_64-linux-gnu -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/core/..  -fPIC -g   -std=gnu++11 -o CMakeFiles/core.dir/mesh_io_npts.cc.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/core/mesh_io_npts.cc",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/core/mesh_io_npts.cc"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/core",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -I/usr/include/eigen3 -I/usr/include/x86_64-linux-gnu -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/core/..  -fPIC -g   -std=gnu++11 -o CMakeFiles/core.dir/mesh_io_smf.cc.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/core/mesh_io_smf.cc",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/core/mesh_io_smf.cc"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/core",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -I/usr/include/eigen3 -I/usr/include/x86_64-linux-gnu -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/core/..  -fPIC -g   -std=gnu++11 -o CMakeFiles/core.dir/mesh_io_pbrt.cc.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/core/mesh_io_pbrt.cc",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/core/mesh_io_pbrt.cc"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/util",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -I/usr/include/eigen3 -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/util/..  -fPIC -g   -std=gnu++11 -o CMakeFiles/util.dir/arguments.cc.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/util/arguments.cc",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/util/arguments.cc"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/util",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -I/usr/include/eigen3 -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/util/..  -fPIC -g   -std=gnu++11 -o CMakeFiles/util.dir/file_system.cc.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/util/file_system.cc",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/util/file_system.cc"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/util",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -I/usr/include/eigen3 -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/util/..  -fPIC -g   -std=gnu++11 -o CMakeFiles/util.dir/ini_parser.cc.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/util/ini_parser.cc",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/util/ini_parser.cc"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/util",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -I/usr/include/eigen3 -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/util/..  -fPIC -g   -std=gnu++11 -o CMakeFiles/util.dir/system.cc.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/util/system.cc",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/util/system.cc"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/features",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -I/usr/include/eigen3 -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/features/..  -fPIC -g   -std=gnu++11 -o CMakeFiles/features.dir/sift.cc.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/features/sift.cc",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/features/sift.cc"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/features",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -I/usr/include/eigen3 -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/features/..  -fPIC -g   -std=gnu++11 -o CMakeFiles/features.dir/surf.cc.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/features/surf.cc",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/features/surf.cc"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/features",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -I/usr/include/eigen3 -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/features/..  -fPIC -g   -std=gnu++11 -o CMakeFiles/features.dir/nearest_neighbor.cc.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/features/nearest_neighbor.cc",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/features/nearest_neighbor.cc"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/features",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -I/usr/include/eigen3 -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/features/..  -fPIC -g   -std=gnu++11 -o CMakeFiles/features.dir/matching.cc.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/features/matching.cc",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/features/matching.cc"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/features",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -I/usr/include/eigen3 -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/features/..  -fPIC -g   -std=gnu++11 -o CMakeFiles/features.dir/exhaustive_matching.cc.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/features/exhaustive_matching.cc",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/features/exhaustive_matching.cc"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/features",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -I/usr/include/eigen3 -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/features/..  -fPIC -g   -std=gnu++11 -o CMakeFiles/features.dir/cascade_hashing.cc.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/features/cascade_hashing.cc",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/features/cascade_hashing.cc"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/sfm",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -I/usr/include/eigen3 -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/sfm/..  -fPIC -g   -std=gnu++11 -o CMakeFiles/sfm.dir/camera_database.cc.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/sfm/camera_database.cc",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/sfm/camera_database.cc"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/sfm",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -I/usr/include/eigen3 -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/sfm/..  -fPIC -g   -std=gnu++11 -o CMakeFiles/sfm.dir/bundler_common.cc.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/sfm/bundler_common.cc",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/sfm/bundler_common.cc"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/sfm",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -I/usr/include/eigen3 -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/sfm/..  -fPIC -g   -std=gnu++11 -o CMakeFiles/sfm.dir/feature_set.cc.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/sfm/feature_set.cc",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/sfm/feature_set.cc"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/sfm",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -I/usr/include/eigen3 -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/sfm/..  -fPIC -g   -std=gnu++11 -o CMakeFiles/sfm.dir/ransac.cc.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/sfm/ransac.cc",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/sfm/ransac.cc"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/sfm",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -I/usr/include/eigen3 -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/sfm/..  -fPIC -g   -std=gnu++11 -o CMakeFiles/sfm.dir/fundamental.cc.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/sfm/fundamental.cc",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/sfm/fundamental.cc"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/sfm",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -I/usr/include/eigen3 -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/sfm/..  -fPIC -g   -std=gnu++11 -o CMakeFiles/sfm.dir/ransac_homography.cc.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/sfm/ransac_homography.cc",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/sfm/ransac_homography.cc"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/sfm",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -I/usr/include/eigen3 -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/sfm/..  -fPIC -g   -std=gnu++11 -o CMakeFiles/sfm.dir/homography.cc.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/sfm/homography.cc",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/sfm/homography.cc"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/sfm",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -I/usr/include/eigen3 -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/sfm/..  -fPIC -g   -std=gnu++11 -o CMakeFiles/sfm.dir/ransac_fundamental.cc.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/sfm/ransac_fundamental.cc",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/sfm/ransac_fundamental.cc"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/sfm",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -I/usr/include/eigen3 -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/sfm/..  -fPIC -g   -std=gnu++11 -o CMakeFiles/sfm.dir/pose_p3p.cc.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/sfm/pose_p3p.cc",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/sfm/pose_p3p.cc"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/sfm",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -I/usr/include/eigen3 -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/sfm/..  -fPIC -g   -std=gnu++11 -o CMakeFiles/sfm.dir/ransac_pose_p3p.cc.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/sfm/ransac_pose_p3p.cc",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/sfm/ransac_pose_p3p.cc"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/sfm",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -I/usr/include/eigen3 -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/sfm/..  -fPIC -g   -std=gnu++11 -o CMakeFiles/sfm.dir/bundle_adjustment.cc.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/sfm/bundle_adjustment.cc",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/sfm/bundle_adjustment.cc"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/sfm",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -I/usr/include/eigen3 -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/sfm/..  -fPIC -g   -std=gnu++11 -o CMakeFiles/sfm.dir/ba_linear_solver.cc.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/sfm/ba_linear_solver.cc",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/sfm/ba_linear_solver.cc"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/sfm",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -I/usr/include/eigen3 -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/sfm/..  -fPIC -g   -std=gnu++11 -o CMakeFiles/sfm.dir/extract_focal_length.cc.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/sfm/extract_focal_length.cc",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/sfm/extract_focal_length.cc"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/sfm",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -I/usr/include/eigen3 -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/sfm/..  -fPIC -g   -std=gnu++11 -o CMakeFiles/sfm.dir/triangulate.cc.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/sfm/triangulate.cc",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/sfm/triangulate.cc"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/sfm",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -I/usr/include/eigen3 -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/sfm/..  -fPIC -g   -std=gnu++11 -o CMakeFiles/sfm.dir/bundler_features.cc.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/sfm/bundler_features.cc",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/sfm/bundler_features.cc"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/sfm",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -I/usr/include/eigen3 -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/sfm/..  -fPIC -g   -std=gnu++11 -o CMakeFiles/sfm.dir/bundler_matching.cc.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/sfm/bundler_matching.cc",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/sfm/bundler_matching.cc"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/sfm",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -I/usr/include/eigen3 -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/sfm/..  -fPIC -g   -std=gnu++11 -o CMakeFiles/sfm.dir/bundler_intrinsics.cc.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/sfm/bundler_intrinsics.cc",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/sfm/bundler_intrinsics.cc"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/sfm",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -I/usr/include/eigen3 -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/sfm/..  -fPIC -g   -std=gnu++11 -o CMakeFiles/sfm.dir/bundler_tracks.cc.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/sfm/bundler_tracks.cc",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/sfm/bundler_tracks.cc"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/sfm",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -I/usr/include/eigen3 -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/sfm/..  -fPIC -g   -std=gnu++11 -o CMakeFiles/sfm.dir/bundler_incremental.cc.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/sfm/bundler_incremental.cc",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/sfm/bundler_incremental.cc"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/sfm",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -I/usr/include/eigen3 -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/sfm/..  -fPIC -g   -std=gnu++11 -o CMakeFiles/sfm.dir/bundler_init_pair.cc.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/sfm/bundler_init_pair.cc",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/sfm/bundler_init_pair.cc"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/mvs",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -I/usr/include/eigen3 -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/mvs/..  -fPIC -g   -std=gnu++11 -o CMakeFiles/mvs.dir/dmrecon.cc.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/mvs/dmrecon.cc",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/mvs/dmrecon.cc"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/mvs",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -I/usr/include/eigen3 -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/mvs/..  -fPIC -g   -std=gnu++11 -o CMakeFiles/mvs.dir/global_view_selection.cc.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/mvs/global_view_selection.cc",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/mvs/global_view_selection.cc"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/mvs",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -I/usr/include/eigen3 -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/mvs/..  -fPIC -g   -std=gnu++11 -o CMakeFiles/mvs.dir/image_pyramid.cc.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/mvs/image_pyramid.cc",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/mvs/image_pyramid.cc"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/mvs",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -I/usr/include/eigen3 -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/mvs/..  -fPIC -g   -std=gnu++11 -o CMakeFiles/mvs.dir/local_view_selection.cc.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/mvs/local_view_selection.cc",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/mvs/local_view_selection.cc"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/mvs",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -I/usr/include/eigen3 -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/mvs/..  -fPIC -g   -std=gnu++11 -o CMakeFiles/mvs.dir/mvs_tools.cc.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/mvs/mvs_tools.cc",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/mvs/mvs_tools.cc"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/mvs",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -I/usr/include/eigen3 -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/mvs/..  -fPIC -g   -std=gnu++11 -o CMakeFiles/mvs.dir/patch_optimization.cc.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/mvs/patch_optimization.cc",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/mvs/patch_optimization.cc"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/mvs",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -I/usr/include/eigen3 -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/mvs/..  -fPIC -g   -std=gnu++11 -o CMakeFiles/mvs.dir/patch_sampler.cc.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/mvs/patch_sampler.cc",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/mvs/patch_sampler.cc"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/mvs",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -I/usr/include/eigen3 -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/mvs/..  -fPIC -g   -std=gnu++11 -o CMakeFiles/mvs.dir/single_view.cc.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/mvs/single_view.cc",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/mvs/single_view.cc"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/examples/task1",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -I/usr/include/eigen3 -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/examples/task1/../..  -fPIC -g   -std=gnu++11 -o CMakeFiles/task2_test_camera_model.dir/task2_test_camera.cc.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/examples/task1/task2_test_camera.cc",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/examples/task1/task2_test_camera.cc"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/examples/task1",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -I/usr/include/eigen3 -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/examples/task1/../..  -fPIC -g   -std=gnu++11 -o CMakeFiles/task1_test_math_basic.dir/task1_test_math_basic.cc.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/examples/task1/task1_test_math_basic.cc",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/examples/task1/task1_test_math_basic.cc"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/examples/task1",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -I/usr/include/eigen3 -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/examples/task1/../..  -fPIC -g   -std=gnu++11 -o CMakeFiles/task3_test_feature_matching.dir/task3_test_matching.cc.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/examples/task1/task3_test_matching.cc",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/examples/task1/task3_test_matching.cc"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/examples/task1",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -I/usr/include/eigen3 -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/examples/task1/../..  -fPIC -g   -std=gnu++11 -o CMakeFiles/task3_test_feature_matching.dir/visualizer.cc.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/examples/task1/visualizer.cc",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/examples/task1/visualizer.cc"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/examples/task1",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -I/usr/include/eigen3 -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/examples/task1/../..  -fPIC -g   -std=gnu++11 -o CMakeFiles/task6_test_pose_from_fundamental.dir/task6_test_pose_from_fundamental.cc.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/examples/task1/task6_test_pose_from_fundamental.cc",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/examples/task1/task6_test_pose_from_fundamental.cc"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/examples/task1",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -I/usr/include/eigen3 -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/examples/task1/../..  -fPIC -g   -std=gnu++11 -o CMakeFiles/task4_test_fundamental_8_point.dir/task4_test_fundamental_8_point.cc.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/examples/task1/task4_test_fundamental_8_point.cc",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/examples/task1/task4_test_fundamental_8_point.cc"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/examples/task1",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -I/usr/include/eigen3 -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/examples/task1/../..  -fPIC -g   -std=gnu++11 -o CMakeFiles/task5_test_fundamental_ransac.dir/task5_test_fundamental_ransac.cc.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/examples/task1/task5_test_fundamental_ransac.cc",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/examples/task1/task5_test_fundamental_ransac.cc"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/examples/task2",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -I/usr/include/eigen3 -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/examples/task2/../..  -fPIC -g   -std=gnu++11 -o CMakeFiles/task2-2_test_p3p_kneip.dir/task2-2_test_p3p_kneip.cc.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/examples/task2/task2-2_test_p3p_kneip.cc",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/examples/task2/task2-2_test_p3p_kneip.cc"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/examples/task2",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -I/usr/include/eigen3 -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/examples/task2/../..  -fPIC -g   -std=gnu++11 -o CMakeFiles/task2-1_test_triangle.dir/task2-1_test_triangle.cc.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/examples/task2/task2-1_test_triangle.cc",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/examples/task2/task2-1_test_triangle.cc"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/examples/task2",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -I/usr/include/eigen3 -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/examples/task2/../..  -fPIC -g   -std=gnu++11 -o CMakeFiles/task2-4_test_jacobian.dir/task2-4_test_jacobian.cc.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/examples/task2/task2-4_test_jacobian.cc",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/examples/task2/task2-4_test_jacobian.cc"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/examples/task2",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -I/usr/include/eigen3 -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/examples/task2/../..  -fPIC -g   -std=gnu++11 -o CMakeFiles/task2-2_test_p3p_ransac.dir/task2-2_test_p3p_ransac.cc.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/examples/task2/task2-2_test_p3p_ransac.cc",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/examples/task2/task2-2_test_p3p_ransac.cc"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/examples/task2",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -I/usr/include/eigen3 -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/examples/task2/../..  -fPIC -g   -std=gnu++11 -o CMakeFiles/task2-3_test_lm_optimize.dir/task2-3_test_lm_optimize.cc.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/examples/task2/task2-3_test_lm_optimize.cc",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/examples/task2/task2-3_test_lm_optimize.cc"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/examples/task2",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -I/usr/include/eigen3 -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/examples/task2/../..  -fPIC -g   -std=gnu++11 -o CMakeFiles/task2-5_test_ba.dir/task2-5_test_bundle_adjustment.cc.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/examples/task2/task2-5_test_bundle_adjustment.cc",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/examples/task2/task2-5_test_bundle_adjustment.cc"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/surface",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -I/usr/include/eigen3 -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/surface/..  -fPIC -g   -std=gnu++11 -o CMakeFiles/surface.dir/basis_function.cc.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/surface/basis_function.cc",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/surface/basis_function.cc"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/surface",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -I/usr/include/eigen3 -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/surface/..  -fPIC -g   -std=gnu++11 -o CMakeFiles/surface.dir/hermite.cc.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/surface/hermite.cc",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/surface/hermite.cc"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/surface",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -I/usr/include/eigen3 -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/surface/..  -fPIC -g   -std=gnu++11 -o CMakeFiles/surface.dir/iso_octree.cc.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/surface/iso_octree.cc",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/surface/iso_octree.cc"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/surface",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -I/usr/include/eigen3 -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/surface/..  -fPIC -g   -std=gnu++11 -o CMakeFiles/surface.dir/iso_surface.cc.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/surface/iso_surface.cc",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/surface/iso_surface.cc"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/surface",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -I/usr/include/eigen3 -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/surface/..  -fPIC -g   -std=gnu++11 -o CMakeFiles/surface.dir/mesh_clean.cc.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/surface/mesh_clean.cc",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/surface/mesh_clean.cc"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/surface",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -I/usr/include/eigen3 -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/surface/..  -fPIC -g   -std=gnu++11 -o CMakeFiles/surface.dir/octree.cc.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/surface/octree.cc",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/surface/octree.cc"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/surface",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -I/usr/include/eigen3 -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/surface/..  -fPIC -g   -std=gnu++11 -o CMakeFiles/surface.dir/sample_io.cc.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/surface/sample_io.cc",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/surface/sample_io.cc"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/surface",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -I/usr/include/eigen3 -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/surface/..  -fPIC -g   -std=gnu++11 -o CMakeFiles/surface.dir/triangulation.cc.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/surface/triangulation.cc",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/surface/triangulation.cc"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/surface",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -I/usr/include/eigen3 -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/surface/..  -fPIC -g   -std=gnu++11 -o CMakeFiles/surface.dir/voxel.cc.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/surface/voxel.cc",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/surface/voxel.cc"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/texturing",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -DRESEARCH -I/usr/include/eigen3 -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/.. -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/../3rdParty/mrf -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/../3rdParty/coldet/src  -fPIC -g   -std=gnu++11 -o CMakeFiles/texturing.dir/build_adjacency_graph.cpp.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/build_adjacency_graph.cpp",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/build_adjacency_graph.cpp"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/texturing",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -DRESEARCH -I/usr/include/eigen3 -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/.. -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/../3rdParty/mrf -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/../3rdParty/coldet/src  -fPIC -g   -std=gnu++11 -o CMakeFiles/texturing.dir/build_obj_model.cpp.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/build_obj_model.cpp",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/build_obj_model.cpp"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/texturing",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -DRESEARCH -I/usr/include/eigen3 -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/.. -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/../3rdParty/mrf -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/../3rdParty/coldet/src  -fPIC -g   -std=gnu++11 -o CMakeFiles/texturing.dir/calculate_data_costs.cpp.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/calculate_data_costs.cpp",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/calculate_data_costs.cpp"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/texturing",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -DRESEARCH -I/usr/include/eigen3 -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/.. -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/../3rdParty/mrf -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/../3rdParty/coldet/src  -fPIC -g   -std=gnu++11 -o CMakeFiles/texturing.dir/generate_debug_embeddings.cpp.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/generate_debug_embeddings.cpp",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/generate_debug_embeddings.cpp"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/texturing",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -DRESEARCH -I/usr/include/eigen3 -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/.. -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/../3rdParty/mrf -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/../3rdParty/coldet/src  -fPIC -g   -std=gnu++11 -o CMakeFiles/texturing.dir/generate_texture_atlases.cpp.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/generate_texture_atlases.cpp",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/generate_texture_atlases.cpp"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/texturing",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -DRESEARCH -I/usr/include/eigen3 -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/.. -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/../3rdParty/mrf -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/../3rdParty/coldet/src  -fPIC -g   -std=gnu++11 -o CMakeFiles/texturing.dir/generate_texture_patches.cpp.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/generate_texture_patches.cpp",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/generate_texture_patches.cpp"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/texturing",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -DRESEARCH -I/usr/include/eigen3 -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/.. -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/../3rdParty/mrf -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/../3rdParty/coldet/src  -fPIC -g   -std=gnu++11 -o CMakeFiles/texturing.dir/generate_texture_views.cpp.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/generate_texture_views.cpp",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/generate_texture_views.cpp"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/texturing",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -DRESEARCH -I/usr/include/eigen3 -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/.. -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/../3rdParty/mrf -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/../3rdParty/coldet/src  -fPIC -g   -std=gnu++11 -o CMakeFiles/texturing.dir/global_seam_leveling.cpp.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/global_seam_leveling.cpp",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/global_seam_leveling.cpp"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/texturing",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -DRESEARCH -I/usr/include/eigen3 -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/.. -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/../3rdParty/mrf -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/../3rdParty/coldet/src  -fPIC -g   -std=gnu++11 -o CMakeFiles/texturing.dir/histogram.cpp.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/histogram.cpp",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/histogram.cpp"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/texturing",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -DRESEARCH -I/usr/include/eigen3 -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/.. -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/../3rdParty/mrf -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/../3rdParty/coldet/src  -fPIC -g   -std=gnu++11 -o CMakeFiles/texturing.dir/local_seam_leveling.cpp.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/local_seam_leveling.cpp",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/local_seam_leveling.cpp"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/texturing",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -DRESEARCH -I/usr/include/eigen3 -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/.. -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/../3rdParty/mrf -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/../3rdParty/coldet/src  -fPIC -g   -std=gnu++11 -o CMakeFiles/texturing.dir/material_lib.cpp.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/material_lib.cpp",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/material_lib.cpp"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/texturing",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -DRESEARCH -I/usr/include/eigen3 -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/.. -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/../3rdParty/mrf -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/../3rdParty/coldet/src  -fPIC -g   -std=gnu++11 -o CMakeFiles/texturing.dir/obj_model.cpp.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/obj_model.cpp",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/obj_model.cpp"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/texturing",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -DRESEARCH -I/usr/include/eigen3 -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/.. -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/../3rdParty/mrf -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/../3rdParty/coldet/src  -fPIC -g   -std=gnu++11 -o CMakeFiles/texturing.dir/poisson_blending.cpp.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/poisson_blending.cpp",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/poisson_blending.cpp"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/texturing",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -DRESEARCH -I/usr/include/eigen3 -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/.. -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/../3rdParty/mrf -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/../3rdParty/coldet/src  -fPIC -g   -std=gnu++11 -o CMakeFiles/texturing.dir/prepare_mesh.cpp.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/prepare_mesh.cpp",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/prepare_mesh.cpp"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/texturing",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -DRESEARCH -I/usr/include/eigen3 -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/.. -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/../3rdParty/mrf -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/../3rdParty/coldet/src  -fPIC -g   -std=gnu++11 -o CMakeFiles/texturing.dir/rectangular_bin.cpp.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/rectangular_bin.cpp",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/rectangular_bin.cpp"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/texturing",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -DRESEARCH -I/usr/include/eigen3 -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/.. -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/../3rdParty/mrf -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/../3rdParty/coldet/src  -fPIC -g   -std=gnu++11 -o CMakeFiles/texturing.dir/seam_leveling.cpp.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/seam_leveling.cpp",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/seam_leveling.cpp"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/texturing",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -DRESEARCH -I/usr/include/eigen3 -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/.. -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/../3rdParty/mrf -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/../3rdParty/coldet/src  -fPIC -g   -std=gnu++11 -o CMakeFiles/texturing.dir/texture_atlas.cpp.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/texture_atlas.cpp",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/texture_atlas.cpp"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/texturing",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -DRESEARCH -I/usr/include/eigen3 -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/.. -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/../3rdParty/mrf -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/../3rdParty/coldet/src  -fPIC -g   -std=gnu++11 -o CMakeFiles/texturing.dir/texture_patch.cpp.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/texture_patch.cpp",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/texture_patch.cpp"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/texturing",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -DRESEARCH -I/usr/include/eigen3 -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/.. -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/../3rdParty/mrf -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/../3rdParty/coldet/src  -fPIC -g   -std=gnu++11 -o CMakeFiles/texturing.dir/texture_view.cpp.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/texture_view.cpp",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/texture_view.cpp"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/texturing",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -DRESEARCH -I/usr/include/eigen3 -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/.. -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/../3rdParty/mrf -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/../3rdParty/coldet/src  -fPIC -g   -std=gnu++11 -o CMakeFiles/texturing.dir/tri.cpp.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/tri.cpp",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/tri.cpp"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/texturing",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -DRESEARCH -I/usr/include/eigen3 -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/.. -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/../3rdParty/mrf -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/../3rdParty/coldet/src  -fPIC -g   -std=gnu++11 -o CMakeFiles/texturing.dir/uni_graph.cpp.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/uni_graph.cpp",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/uni_graph.cpp"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/texturing",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -DRESEARCH -I/usr/include/eigen3 -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/.. -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/../3rdParty/mrf -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/../3rdParty/coldet/src  -fPIC -g   -std=gnu++11 -o CMakeFiles/texturing.dir/view_selection.cpp.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/view_selection.cpp",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/view_selection.cpp"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/texturing",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -DRESEARCH -I/usr/include/eigen3 -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/.. -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/../3rdParty/mrf -I/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/../3rdParty/coldet/src  -fPIC -g   -std=gnu++11 -o CMakeFiles/texturing.dir/timer.cpp.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/timer.cpp",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/texturing/timer.cpp"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/3rdParty/mrf",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -I/usr/include/eigen3  -fPIC -g   -std=gnu++11 -o CMakeFiles/mrf.dir/gco_graph.cpp.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/3rdParty/mrf/gco_graph.cpp",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/3rdParty/mrf/gco_graph.cpp"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/3rdParty/mrf",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -I/usr/include/eigen3  -fPIC -g   -std=gnu++11 -o CMakeFiles/mrf.dir/graph.cpp.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/3rdParty/mrf/graph.cpp",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/3rdParty/mrf/graph.cpp"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/3rdParty/mrf",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -I/usr/include/eigen3  -fPIC -g   -std=gnu++11 -o CMakeFiles/mrf.dir/icm_graph.cpp.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/3rdParty/mrf/icm_graph.cpp",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/3rdParty/mrf/icm_graph.cpp"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/3rdParty/mrf",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -I/usr/include/eigen3  -fPIC -g   -std=gnu++11 -o CMakeFiles/mrf.dir/lbp_graph.cpp.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/3rdParty/mrf/lbp_graph.cpp",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/3rdParty/mrf/lbp_graph.cpp"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/3rdParty/coldet",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -DGCC -I/usr/include/eigen3  -fPIC -O3 -DNDEBUG   -std=gnu++11 -o CMakeFiles/coldet.dir/src/box_bld.cpp.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/3rdParty/coldet/src/box_bld.cpp",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/3rdParty/coldet/src/box_bld.cpp"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/3rdParty/coldet",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -DGCC -I/usr/include/eigen3  -fPIC -O3 -DNDEBUG   -std=gnu++11 -o CMakeFiles/coldet.dir/src/box.cpp.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/3rdParty/coldet/src/box.cpp",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/3rdParty/coldet/src/box.cpp"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/3rdParty/coldet",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -DGCC -I/usr/include/eigen3  -fPIC -O3 -DNDEBUG   -std=gnu++11 -o CMakeFiles/coldet.dir/src/cdmath3d.cpp.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/3rdParty/coldet/src/cdmath3d.cpp",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/3rdParty/coldet/src/cdmath3d.cpp"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/3rdParty/coldet",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -DGCC -I/usr/include/eigen3  -fPIC -O3 -DNDEBUG   -std=gnu++11 -o CMakeFiles/coldet.dir/src/coldet_bld.cpp.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/3rdParty/coldet/src/coldet_bld.cpp",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/3rdParty/coldet/src/coldet_bld.cpp"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/3rdParty/coldet",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -DGCC -I/usr/include/eigen3  -fPIC -O3 -DNDEBUG   -std=gnu++11 -o CMakeFiles/coldet.dir/src/coldet.cpp.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/3rdParty/coldet/src/coldet.cpp",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/3rdParty/coldet/src/coldet.cpp"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/3rdParty/coldet",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -DGCC -I/usr/include/eigen3  -fPIC -O3 -DNDEBUG   -std=gnu++11 -o CMakeFiles/coldet.dir/src/multiobject.cpp.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/3rdParty/coldet/src/multiobject.cpp",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/3rdParty/coldet/src/multiobject.cpp"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/3rdParty/coldet",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -DGCC -I/usr/include/eigen3  -fPIC -O3 -DNDEBUG   -std=gnu++11 -o CMakeFiles/coldet.dir/src/mytritri.cpp.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/3rdParty/coldet/src/mytritri.cpp",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/3rdParty/coldet/src/mytritri.cpp"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/3rdParty/coldet",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -DGCC -I/usr/include/eigen3  -fPIC -O3 -DNDEBUG   -std=gnu++11 -o CMakeFiles/coldet.dir/src/sysdep.cpp.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/3rdParty/coldet/src/sysdep.cpp",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/3rdParty/coldet/src/sysdep.cpp"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/3rdParty/coldet",
+  "command": "/usr/bin/gcc-7 -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -DGCC -I/usr/include/eigen3  -O3 -DNDEBUG   -o CMakeFiles/coldet.dir/src/tritri.c.o   -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/3rdParty/coldet/src/tritri.c",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/3rdParty/coldet/src/tritri.c"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/3rdParty/gco",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -I/usr/include/eigen3  -fPIC -DGCO_ENERGYTYPE=float -O3 -DNDEBUG   -std=gnu++11 -o CMakeFiles/gco.dir/GCoptimization.cpp.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/3rdParty/gco/GCoptimization.cpp",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/3rdParty/gco/GCoptimization.cpp"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/3rdParty/gco",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -I/usr/include/eigen3  -fPIC -DGCO_ENERGYTYPE=float -O3 -DNDEBUG   -std=gnu++11 -o CMakeFiles/gco.dir/graph.cpp.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/3rdParty/gco/graph.cpp",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/3rdParty/gco/graph.cpp"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/3rdParty/gco",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -I/usr/include/eigen3  -fPIC -DGCO_ENERGYTYPE=float -O3 -DNDEBUG   -std=gnu++11 -o CMakeFiles/gco.dir/LinkedBlockList.cpp.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/3rdParty/gco/LinkedBlockList.cpp",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/3rdParty/gco/LinkedBlockList.cpp"
+},
+{
+  "directory": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/build/3rdParty/gco",
+  "command": "/usr/bin/g++-7  -DEIGEN_USE_NEW_STDVECTOR -DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET -I/usr/include/eigen3  -fPIC -DGCO_ENERGYTYPE=float -O3 -DNDEBUG   -std=gnu++11 -o CMakeFiles/gco.dir/maxflow.cpp.o -c /home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/3rdParty/gco/maxflow.cpp",
+  "file": "/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/3rdParty/gco/maxflow.cpp"
+}
+]

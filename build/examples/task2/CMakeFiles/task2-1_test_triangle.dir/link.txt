@@ -1,0 +1,1 @@
+/usr/bin/g++-7  -fPIC -g   CMakeFiles/task2-1_test_triangle.dir/task2-1_test_triangle.cc.o  -o task2-1_test_triangle ../../sfm/libsfm.a ../../util/libutil.a ../../core/libcore.a ../../util/libutil.a /usr/lib/x86_64-linux-gnu/libpng.so /usr/lib/x86_64-linux-gnu/libz.so /usr/lib/x86_64-linux-gnu/libjpeg.so /usr/lib/x86_64-linux-gnu/libtiff.so 

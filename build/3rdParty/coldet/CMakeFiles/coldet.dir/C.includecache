@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zhaoxinyu/Desktop/深蓝图像三维重建/ImageBasedModellingEdu/3rdParty/coldet/src/tritri.c
+math.h
+-
+
